@@ -1,45 +1,47 @@
-# 👋 ¡Hola! Soy Jonathan Amado
+# 👋 Hi there, I'm Jonathan Amado
 
-🎓 Máster en Investigación de Operaciones en curso | 🧠 Apasionado por el análisis de datos, la optimización y la tecnología  
-🌐 Ingeniero en Sistemas, Informática y Ciencias de la Computación | 🇬🇹 Guatemala  
-
----
-
-## 👨‍💻 Sobre mí
-
-Soy un profesional con sólida experiencia en desarrollo web, análisis de datos y optimización de procesos, tanto en el sector tecnológico como en el sector de la construcción e inmobiliario. Actualmente curso una Maestría en Investigación de Operaciones en la **Universidad Galileo**, y trabajo como **Coordinador de Marketing en Condado Naranjo**, un proyecto inmobiliario líder en Guatemala.
-
-💼 También soy socio y responsable del área tecnológica en **Constructora J&H**, donde he liderado la transformación digital y la reestructuración organizacional.
+🎓 Master's Student in Operations Research | 🧠 Passionate about Data, Optimization, and Tech  
+🌐 Systems Engineer & Full-Stack Developer | 🇬🇹 Based in Guatemala  
 
 ---
 
-## 🚀 Mis habilidades
+## 👨‍💻 About Me
 
-- **Lenguajes y Frameworks**: Python, Django, JavaScript, HTML/CSS, PHP  
-- **Análisis de datos y optimización**: R, Python, Simio, AMPL  
-- **Bases de datos**: MySQL, PostgreSQL  
-- **Marketing y diseño**: Estrategia digital, edición de video, fotografía, branding  
-- **Herramientas**: Git, Jupyter Notebooks, PrestaShop, OpenCart, XML/JSON APIs  
-- **Metodologías**: Modelos de optimización, simulación, programación lineal, costeo ABC, escenarios estratégicos
+I'm a tech-savvy professional with a strong background in web development, data analysis, and process optimization, working across construction, real estate, and tech industries.
 
----
+Currently pursuing a **Master’s in Operations Research** at **Universidad Galileo**, where I apply mathematical and simulation models to solve real-world business problems.
 
-## 📚 Proyectos destacados
-
-- 🎯 **CRM con Django**: Sistema completo de gestión de clientes con autenticación, consultas remotas, y manejo de datos estructurados.  
-- 🧠 **Modelos predictivos**: Análisis estadístico y modelos de predicción aplicados a problemas empresariales reales.  
-- 🏗️ **Optimización en la construcción**: Aplicación de programación lineal para mejorar la asignación de recursos y minimizar costos operativos.  
-- 🏡 **Marketing inmobiliario**: Campañas creativas y branding para proyectos habitacionales innovadores como **CADIZ VILLAS**.
+By day, I’m the **Marketing Coordinator at Condado Naranjo**, one of Guatemala’s leading real estate projects. I’m also a **partner and IT lead at Constructora J&H**, where I’ve spearheaded digital transformation and internal restructuring efforts.
 
 ---
 
-## 🎮 Más sobre mí
+## 🚀 My Skill Set
 
-Me apasionan los videojuegos tipo MOBA (especialmente DotA), el mundo del **branding**, y el desarrollo de soluciones tecnológicas que realmente **resuelven problemas**. También disfruto el senderismo y he subido los volcanes **Acatenango, Agua y Fuego** en Guatemala 💪🌋
+- **Languages & Frameworks**: Python, Django, JavaScript, HTML/CSS, PHP  
+- **Data & Optimization**: R, Python, Simio, AMPL, Excel Modeling  
+- **Databases**: MySQL, PostgreSQL  
+- **Tech Stack**: Git, APIs (XML/JSON), Jupyter, PrestaShop, OpenCart  
+- **Business Tools**: Branding, Digital Marketing Strategy, Video Editing, Photography  
+- **Methodologies**: Linear Programming, Simulation, Predictive Modeling, ABC Costing, Strategic Scenario Building
 
 ---
 
-## 📫 Conecta conmigo
+## 💡 Featured Projects
+
+- 🔧 **Django CRM System**: End-to-end client management with secure authentication, remote queries, and structured data handling.  
+- 📊 **Predictive Models**: Applied data models for finance, logistics, and market analysis using Python and R.  
+- 🏗️ **Construction Resource Optimizer**: Linear programming model to reduce operational costs and improve material allocation.  
+- 🏡 **Real Estate Branding & Marketing**: Led the creative direction for innovative housing products like **CADIZ VILLAS**.
+
+---
+
+## 🎮 A Bit More About Me
+
+Outside of work, I’m a MOBA fan (DotA especially 🎯), love minimal branding and design, and enjoy creating solutions that actually solve problems. I'm also an avid hiker and proud to have climbed **Acatenango, Agua, and Fuego volcanoes** here in Guatemala 🌋💪
+
+---
+
+## 📫 Let's Connect
 
 - 📧 midwayjona@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/midwayjona/)  
@@ -47,7 +49,7 @@ Me apasionan los videojuegos tipo MOBA (especialmente DotA), el mundo del **bran
 
 ---
 
-> *"Piensa en grande, empieza en pequeño, actúa ahora."*  
+> *"Think big. Start small. Act now."*
 
 
 <!---
